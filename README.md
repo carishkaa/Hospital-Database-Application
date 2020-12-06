@@ -5,4 +5,4 @@ A simple desktop application in Java with JPA access to the database of hospital
 
 This application created for use by medical workers. It allows the user to add and remove patients from the database, change their data if necessary, and keep information about the actual treating doctors for each patient.
 
-![img](mainview.png)
+![img](appview.png)
